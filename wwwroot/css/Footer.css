@@ -1,0 +1,52 @@
+﻿footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h5 {
+    color: #333;
+    font-size: 20px;
+}
+
+ul.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+    ul.list-unstyled li a {
+        color: #666;
+        text-decoration: none;
+    }
+
+        ul.list-unstyled li a:hover {
+            color: #000;
+        }
+
+ul.list-inline {
+    padding-left: 0;
+    list-style: none;
+}
+
+    ul.list-inline li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+        ul.list-inline li:last-child {
+            margin-right: 0;
+        }
+
+        ul.list-inline li a {
+            color: #666;
+            text-decoration: none;
+        }
+
+            ul.list-inline li a:hover {
+                color: #000;
+            }

@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BharatCrafted.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BharatCrafted.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\Login.jpeg",
+      "PackagePath": "staticwebassets\\Login.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\css\\CustomCSS.css",
+      "PackagePath": "staticwebassets\\css\\CustomCSS.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6877f536-7580-495d-8a05-c741eeba0690_pink shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\bananas.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bananas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\black shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\black shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\blue shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\blue shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\f9235e9c-6666-4077-bca7-b4eaad0f7b21_kiwi.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f9235e9c-6666-4077-bca7-b4eaad0f7b21_kiwi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\grapefruit.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\grapefruit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\grapes.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\grapes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\grey shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\grey shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\products\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\watermelon.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\watermelon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\white shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\white shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\images\\products\\yellow shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\yellow shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\archit.jpg",
+      "PackagePath": "staticwebassets\\lib\\archit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header1.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header2.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header3.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header4.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header5.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\assets\\Header6.jpg",
+      "PackagePath": "staticwebassets\\lib\\assets\\Header6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\manish.jpg",
+      "PackagePath": "staticwebassets\\lib\\manish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\sakshi.jpg",
+      "PackagePath": "staticwebassets\\lib\\sakshi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\saurabh.jpg",
+      "PackagePath": "staticwebassets\\lib\\saurabh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\lib\\vaishnavi.jpg",
+      "PackagePath": "staticwebassets\\lib\\vaishnavi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\OneDrive\\Desktop\\.Net ASP MVC\\Practice\\BharatCrafted\\BharatCrafted\\wwwroot\\shop.ico",
+      "PackagePath": "staticwebassets\\shop.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BharatCrafted.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BharatCrafted.props",
+      "PackagePath": "build\\BharatCrafted.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BharatCrafted.props",
+      "PackagePath": "buildMultiTargeting\\BharatCrafted.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BharatCrafted.props",
+      "PackagePath": "buildTransitive\\BharatCrafted.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

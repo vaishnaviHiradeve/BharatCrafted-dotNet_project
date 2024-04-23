@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BharatCrafted.Models.Seller>
+
+@{
+    ViewData["Title"] = "Hello";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+<h1>Hello and Welcome</h1>
+
+@* <p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">User Information</h5>
+        @foreach (var item in Model)
+        {
+            <div class="mb-3">
+                <strong>First Name:</strong> @Html.DisplayFor(modelItem => item.FirstName) <br />
+                <strong>Last Name:</strong> @Html.DisplayFor(modelItem => item.LastName) <br />
+                <strong>Phone Number:</strong> @Html.DisplayFor(modelItem => item.PhoneNumber) <br />
+                <strong>Email:</strong> @Html.DisplayFor(modelItem => item.Email) <br />
+            </div>
+        }
+        <div class="card-footer text-end">
+            @foreach (var item in Model)
+            {
+                <a class="btn btn-primary" asp-action="EditSS" asp-route-id="@item.Id">Edit</a>
+                <a class="btn btn-secondary" asp-action="DetailSS" asp-route-id="@item.Id">Details</a>
+                <a class="btn btn-danger" asp-action="DeleteSS" asp-route-id="@item.Id">Delete</a>
+            }
+        </div>
+    </div>
+</div>
+
